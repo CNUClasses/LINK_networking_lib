@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LINK_networking_lib.iml" filepath="$PROJECT_DIR$/LINK_networking_lib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../TEST_networking_lib/networking_lib/networking_lib.iml" filepath="$PROJECT_DIR$/../TEST_networking_lib/networking_lib/networking_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LINK_networking_lib.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LINK_networking_lib.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-158241999/LINK_networking_lib.networking_lib.iml" filepath="$PROJECT_DIR$/.idea/modules/-158241999/LINK_networking_lib.networking_lib.iml" />
     </modules>
   </component>
 </project>

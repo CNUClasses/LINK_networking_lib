@@ -16,6 +16,5 @@ public class MainActivity extends AppCompatActivity {
         ConnectivityCheck mc = new ConnectivityCheck(this);
         boolean b = mc.isNetworkReachable();
         b= mc.isWifiReachable();
-        b= mc.isNetworkReachableAlertUserIfNot();
     }
 }
